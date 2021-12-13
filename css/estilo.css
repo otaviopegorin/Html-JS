@@ -1,0 +1,34 @@
+.produtos_texto{
+    display: block;
+    width: 70%;
+}
+
+.produtos_imagem{
+    display: block;
+    width: 70%;
+    text-align: center;
+    border: 8px solid black;
+}
+
+.mae{
+    width: 940px;
+    height: auto;
+    text-align: justify;
+}
+
+#quantidade{
+    display: block;
+}
+
+#nomeCliente{
+    display: block;
+}
+#endereco{
+    display: block;
+}
+
+.borda{
+    margin-top: 10px;
+    list-style-position:inside;
+    border: 1px solid black;
+}
